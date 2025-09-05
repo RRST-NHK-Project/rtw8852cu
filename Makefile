@@ -61,7 +61,7 @@ CONFIG_TXPWR_LIMIT_EN = n
 CONFIG_RTW_REGDB = phl
 ########################## Initial Channel Plan  ##########################
 # XX: unspecified
-CONFIG_RTW_COUNTRY_CODE = XX
+CONFIG_RTW_COUNTRY_CODE = JP
 # 0xFFFF: unspecified
 CONFIG_RTW_CHPLAN = 0xFFFF
 # 0xFFFF: unspecified

@@ -1,0 +1,1 @@
+savedcmd_8852cu.ko := ld -r -m elf_x86_64 -z noexecstack --no-warn-rwx-segments --build-id=sha1  -T /usr/src/linux-headers-6.14.0-28-generic/scripts/module.lds -o 8852cu.ko 8852cu.o 8852cu.mod.o .module-common.o
